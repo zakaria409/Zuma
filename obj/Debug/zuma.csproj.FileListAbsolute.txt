@@ -1,0 +1,18 @@
+C:\Users\zakria sameh22\source\repos\zuma\bin\Debug\zuma.exe.config
+C:\Users\zakria sameh22\source\repos\zuma\bin\Debug\zuma.exe
+C:\Users\zakria sameh22\source\repos\zuma\bin\Debug\zuma.pdb
+C:\Users\zakria sameh22\source\repos\zuma\obj\Debug\zuma.csproj.AssemblyReference.cache
+C:\Users\zakria sameh22\source\repos\zuma\obj\Debug\zuma.Properties.Resources.resources
+C:\Users\zakria sameh22\source\repos\zuma\obj\Debug\zuma.csproj.GenerateResource.cache
+C:\Users\zakria sameh22\source\repos\zuma\obj\Debug\zuma.csproj.CoreCompileInputs.cache
+C:\Users\zakria sameh22\source\repos\zuma\obj\Debug\zuma.exe
+C:\Users\zakria sameh22\source\repos\zuma\obj\Debug\zuma.pdb
+E:\source\repos\zuma\bin\Debug\zuma.exe.config
+E:\source\repos\zuma\bin\Debug\zuma.exe
+E:\source\repos\zuma\bin\Debug\zuma.pdb
+E:\source\repos\zuma\obj\Debug\zuma.csproj.AssemblyReference.cache
+E:\source\repos\zuma\obj\Debug\zuma.Properties.Resources.resources
+E:\source\repos\zuma\obj\Debug\zuma.csproj.GenerateResource.cache
+E:\source\repos\zuma\obj\Debug\zuma.csproj.CoreCompileInputs.cache
+E:\source\repos\zuma\obj\Debug\zuma.exe
+E:\source\repos\zuma\obj\Debug\zuma.pdb
