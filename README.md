@@ -55,5 +55,6 @@ Compile and run the project using a C# IDE such as Visual Studio.
     - `Left/Right` (in Speed Mode): Adjust speed.  
     - `Left/Right` (in Points Mode): Switch between control point and drag modes.  
     - `Left/Right` (in Freeze Mode): Adjust freeze level.
+![Alt Text](/image.png)
 
 Enjoy playing and customizing the Zuma game! Feel free to contribute by adding new features, optimizing the code, or improving the graphics.
